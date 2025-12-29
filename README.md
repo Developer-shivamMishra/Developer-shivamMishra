@@ -58,15 +58,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-shivamMishra&show_icons=true&layout=compact" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-shivamMishra&show_icons=true&locale=en&layout=compact" alt="xnoncywer" /></p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-shivamMishra&show_icons=true" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Developer-shivamMishra&show_icons=true&locale=en" alt="xnoncywer" /></p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-shivamMishra
-" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-shivamMishra&" alt="xnoncywer" /></p>
