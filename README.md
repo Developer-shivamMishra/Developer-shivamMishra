@@ -49,8 +49,9 @@
 
 ### ☕ Support Me
 <p>
-  <a href="https://ko-fi.com/">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" />
+  <a href="https://x.com/Shivam25mishra">
+   <img src="https://seeklogo.com/images/X/x-logo-2023-logo-0D7C1B6E1A-seeklogo.com.png" width="40" />
+
   </a>
 </p>
 
@@ -58,13 +59,14 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-shivamMishra&show_icons=true&layout=compact" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-shivamMishra&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-shivamMishra
+" />
 </p>
