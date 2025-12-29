@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="left">
