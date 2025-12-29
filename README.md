@@ -18,14 +18,14 @@
 - 🌱 Learning **Backend, System Design & Security basics**
 - 👨‍💻 All of my projects are available on **GitHub**
 - 💬 Ask me about **MERN Stack, JavaScript, APIs, Web Development**
-- 📫 Reach me on **Instagram: xnon._.offline**
+- 📫 Reach me on **X : @Shivam25mishra**
 - ⚡ Fun fact: **I turn coffee into code ☕💻**
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://instagram.com/xnon._.offline" target="_blank">
+  <a href="https://x.com/Shivam25mishra" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
 </p>
