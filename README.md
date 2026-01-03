@@ -9,7 +9,7 @@
 
 <h3 align="left">Socials</h3>
 
-<div align="left" style="display:flex; gap:22px;">
+<div align="left" style="display:flex; gap:42px;">
  <a href="https://x.com/Shivam25mishra" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
@@ -17,13 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/shivam-mishra/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-      width="24"
-      style="filter: grayscale(100%);"
-    />
-  </a>
+
 </div>
 
 
