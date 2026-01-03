@@ -17,7 +17,7 @@
 
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://x.com/yourusername">
+<a href="https://x.com/Shivam25mishra">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="24" />
 </a>
 
