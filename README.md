@@ -20,6 +20,10 @@
 <a href="https://x.com/Shivam25mishra">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="24" />
 </a>
+<a href="https://www.linkedin.com/in/shivam-mishra/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="24" />
+</a>
+
 
 </p>
 
