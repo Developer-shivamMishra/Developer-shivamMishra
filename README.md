@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
-<h3 align="center">A passionate MERN Stack developer from india.</h3>
+<h3 align="center">Full Stack Developer(MERN) | Building End-to-End Application.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=Profile%20views&color=0e75b6&style=flat" alt="xnoncywer" /> </p>
 
@@ -15,9 +15,12 @@
 
 - ⚡ Fun fact **Information wants to be free, but my services don't**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://x.com/Shivam25mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="xnon._.offline" height="30" width="40" /></a>
+<a href="https://x.com/yourusername">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="24" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
