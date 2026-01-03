@@ -5,25 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Developer-shivamMishra" alt="xnoncywer" /></a> </p>
 
-- 🔭 I’m currently working on **A complete Web Penetration Testing Solution and Tools for Hacking OSINT and Forensics**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **Hacking Tools,OSINT, Web penetesting,Web devlopmment**
-
-- 📫 How to reach me **Instagram- xnon._.offline**
-
-- ⚡ Fun fact **Information wants to be free, but my services don't**
 
 <h3 align="left">Socials</h3>
 
 <div align="left" style="display:flex; gap:22px;">
-  <a href="https://x.com/Shivam25mishra" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg"
-      width="24"
-      style="filter: grayscale(100%);"
-    />
+ <a href="https://x.com/Shivam25mishra" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+<a href="https://www.linkedin.com/in/shivam-mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/shivam-mishra/" target="_blank">
