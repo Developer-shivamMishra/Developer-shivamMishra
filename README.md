@@ -1,7 +1,7 @@
 <h1 align="center">HiHey there 👋, I'm Shivam Mishra</h1>
 <h3 align="center">Full Stack Developer(MERN) | Building End-to-End Application.</h3>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 
 
