@@ -1,9 +1,6 @@
 <h1 align="center">HiHey there 👋, I'm Shivam Mishra</h1>
 <h3 align="center">Full Stack Developer(MERN) | Building End-to-End Application.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=Profile%20views&color=0e75b6&style=flat" alt="xnoncywer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Developer-shivamMishra" alt="xnoncywer" /></a> </p>
 
 
 
