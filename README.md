@@ -4,6 +4,11 @@
   </a>
 </div>
 
+<div align="center" style="margin: 16px 0;">
+  <img src="dark.svg" alt="Dark theme" width="64" style="margin-right: 16px;" />
+  <img src="light.svg" alt="Light theme" width="64" />
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <div align="left" style="display:flex; gap:42px;">
