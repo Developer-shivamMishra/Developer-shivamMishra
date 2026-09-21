@@ -1,4 +1,4 @@
-# Hey, I'm Shivam Mishra 👋
+# Hey, I'm Shivam Mishra
 
 I build full-stack web applications, developer tools, and AI-powered projects, while continuously learning and sharing what I discover along the way.
 
