@@ -24,7 +24,7 @@ I build full-stack web applications, developer tools, and AI-powered projects, w
 
 * [Portfolio](https://shivam-ecru-eight.vercel.app/#meet-me)
 * [LinkedIn](https://www.linkedin.com/in/shivam-mishra-a6302429b/)
-* [X](cheaf25master)
+* [X](https://x.com/cheaf25master)
 * [Medium](https://medium.com/@sm2275470)
 
 **Always building, learning, contributing, and looking for the next hard problem.**
