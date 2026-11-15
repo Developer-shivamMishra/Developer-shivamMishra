@@ -22,7 +22,7 @@ I build full-stack web applications, developer tools, and AI-powered projects, w
 
 **Tools:** Git, GitHub, Docker, Postman, Vercel, Render, npm
 
-* [Portfolio](https://shivam-ecru-eight.vercel.app/#meet-me)
+* [Portfolio](https://www.shivamport.online/#meet-me)
 * [LinkedIn](https://www.linkedin.com/in/shivam-mishra-a6302429b/)
 * [X](https://x.com/cheaf25master)
 * [Medium](https://medium.com/@sm2275470)
