@@ -2,9 +2,9 @@
 
 # Full-Stack Dev · AI Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shivam+Mishra;MERN+Stack+Developer;Building+interview.site;Building+DevNexus;Learning+in+public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shivam+Mishra;FULL+Stack+Developer;Building+interview.site;Building+DevNexus;Learning+in+public" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=profile+views&color=7c3aed&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Developer-shivamMishra&label=profile+views&color=7c3aed&style=flat" alt="profile views" />
 
 </div>
 
