@@ -2,7 +2,7 @@
 
 # Full-Stack Dev · AI Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shivam+Mishra;MERN+Stack+Developer;Building+DevNexus;Learning+in+public" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shivam+Mishra;MERN+Stack+Developer;Building+interview.site;Building+DevNexus;Learning+in+public" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=profile+views&color=7c3aed&style=flat" alt="profile views" />
 
@@ -19,7 +19,8 @@
 
 ```
 > boot sequence initiated ............ [ OK ]
-> loading  mern.stack ................ [ OK ]
+> loading  full.stack ................ [ OK ]
+> mounting /home/shivam/interview.site  [ OK ]
 > mounting /home/shivam/devnexus ..... [ OK ]
 > syncing  learning_in_public ........ [ OK ]
 > injecting coffee + curiosity ....... [ OK ]
@@ -35,8 +36,8 @@
 
 ## About
 
-* MERN Stack Developer focused on responsive and scalable web applications
-* Building **DevNexus**, a developer networking platform
+* Full Stack Developer focused on responsive and scalable web applications
+* Building **interview.site**, a resume builder and interview prep platform where students can upload a resume or job description and get interview questions (behavioural and technical), an updated resume, and a downloadable final copy
 * Practicing Data Structures & Algorithms with C++
 * Exploring AI-powered applications, automation, and developer tooling
 * Tech creator sharing programming, AI, and software engineering content
